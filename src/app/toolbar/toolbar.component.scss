@@ -1,0 +1,22 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+.home-link, .home-link:hover, .home-link:active, .home-link:focus, .home-link:visited {
+    color:white;
+}
+
+.home-link span, .home-link .mat-icon {
+    display:inline-block;
+    vertical-align: middle;
+}
+
+.user-name {
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.user-name h5 {
+    font-size:14px;
+    line-height: auto;
+}
